@@ -98,7 +98,7 @@ class CreateParticles {
 		this.data = {
 
 			text: 'bchic',
-			amount: 1500,
+			amount: 500,
 			particleSize: 1,
 			particleColor: 0xffffff,
 			textSize: 16,
