@@ -98,7 +98,7 @@ class CreateParticles {
 
 		this.data = {
 
-			text: 'cauley.dev',
+			text: 'bchic',
 			amount: 1500,
 			particleSize: 1,
 			particleColor: 0xffffff,
